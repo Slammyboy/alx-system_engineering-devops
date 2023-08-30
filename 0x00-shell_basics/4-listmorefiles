@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -al>> 4-listmorefiles
+echo ls -al
+ls -al
